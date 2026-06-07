@@ -8,7 +8,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=SanjayPhilip&label=Profile%20views&color=a855f7&style=plastic" alt="SanjayPhilip" />
 </h2>
 
-<img align="right" alt="Coding" width="250" src="https://media.tenor.com/YU_C1sgrrCkAAAAC/hacker.gif">
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 🎓 **Integrated MCA Final Year Student** at **Saintgits College of Engineering**, **Kerala**, **India**
 
@@ -173,6 +173,5 @@ A collection of Python scripts and utilities to automate repetitive workflows an
 ## 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SanjayPhilip)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-philip-3a2531255)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjayphilip832@gmail.com)
