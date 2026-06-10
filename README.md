@@ -159,6 +159,17 @@ A collection of Python scripts and utilities to automate repetitive workflows an
 `Python` `Automation` `Scripting`
 
 </li>
+<li>
+  
+### **[Smart Attendance System 🚀](https://github.com/SanjayPhilip/smart-attendance-system)**
+
+A full-stack attendance management system featuring facial recognition-based attendance marking, analytics dashboards, student management, and cloud deployment.
+
+`React` `Flask` `Computer Vision` `OpenCV` `SQLAlchemy` `Vercel` `Railway`
+
+
+
+</li>
 </ul>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
