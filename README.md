@@ -151,6 +151,24 @@ class SanjayPhilip:
 <tr>
 <td width="50%">
 
+### 🌐 Portfolio Website
+[![Portfolio](https://img.shields.io/badge/🔗_View_Repo-0B0D0E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjayPhilip/portfolio)
+
+> **My digital identity, crafted in code**
+
+Personal portfolio website showcasing projects, skills, and experience. Built with modern web technologies and deployed for the world to see.
+
+**Highlights:**
+- 🎨 Clean, modern UI design
+- 📱 Fully responsive across all devices
+- ⚡ Optimized performance & SEO
+- 🚀 Deployed and live
+
+`React` `HTML5` `CSS3` `JavaScript` `Vercel`
+
+</td>
+<td width="50%">
+
 ### 🎓 Smart Attendance System
 [![Smart Attendance](https://img.shields.io/badge/🔗_View_Repo-0B0D0E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjayPhilip/smart-attendance-system)
 
@@ -259,6 +277,29 @@ A full-featured blood donation management system connecting donors with recipien
 - 🔐 Role-based authentication
 
 `PHP` `MySQL` `HTML5` `CSS3` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 Python Automation Toolkit
+[![Python Automation Toolkit](https://img.shields.io/badge/🔗_View_Repo-0B0D0E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjayPhilip/python-automation-toolkit)
+
+> **Automate the boring stuff**
+
+A collection of Python scripts and utilities to automate repetitive workflows, data processing, and everyday tasks.
+
+**Highlights:**
+- 📁 File organization & batch processing scripts
+- 📊 Data processing & report generation automation
+- ⏰ Scheduled task automation
+- 🔄 Reusable modular utilities
+
+`Python` `Automation` `Scripting` `OS Module`
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
