@@ -185,6 +185,8 @@ A full-stack attendance management system with AI-powered facial recognition, re
 `React` `Flask` `OpenCV` `SQLAlchemy` `Vercel` `Railway`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🔄 MLOps Pipeline
@@ -203,8 +205,6 @@ Train, track, containerize, and deploy ML models with automated CI/CD. Because m
 `Python` `FastAPI` `Docker` `GitHub Actions` `Render`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🎬 AI Video Subtitle Generator
@@ -223,6 +223,8 @@ AI-powered video subtitle generation with a stunning glassmorphism UI. Auto-tran
 `TypeScript` `React` `OpenAI Whisper` `Node.js`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🎵 SoundMind
@@ -241,8 +243,6 @@ An intelligent music discovery platform that learns your preferences and surface
 `Python` `Flask` `AI/ML` `JavaScript`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### ✅ Task Manager
@@ -261,6 +261,8 @@ A full-stack task management app with drag-and-drop Kanban boards, priority tagg
 `React` `Node.js` `MongoDB` `CSS3`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🩸 E Blood Connect
@@ -279,8 +281,6 @@ A full-featured blood donation management system connecting donors with recipien
 `PHP` `MySQL` `HTML5` `CSS3` `JavaScript`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🤖 Python Automation Toolkit
@@ -297,9 +297,6 @@ A collection of Python scripts and utilities to automate repetitive workflows, d
 - 🔄 Reusable modular utilities
 
 `Python` `Automation` `Scripting` `OS Module`
-
-</td>
-<td width="50%">
 
 </td>
 </tr>
