@@ -1,188 +1,363 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sanjay+Philip+%F0%9F%91%8B;Integrated+MCA+Final+Year+Student;Web+Dev+%7C+AI%2FML+%7C+Cybersecurity" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
-  &nbsp;About Me ✌️
-  <img align="right" src="https://komarev.com/ghpvc/?username=SanjayPhilip&label=Profile%20views&color=a855f7&style=plastic" alt="SanjayPhilip" />
-</h2>
+<!-- Animated ASCII Name Banner -->
+<pre style="font-family: 'Courier New', monospace; font-size: 12px; line-height: 1.2;">
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   ███████  █████  ███    ██      ██   ██ ██ ██    ██     ║
+║   ██      ██   ██ ████   ██      ██   ██ ██ ██    ██     ║
+║   ███████ ███████ ██ ██  ██      ███████ ██ ██    ██     ║
+║        ██ ██   ██ ██  ██ ██           ██ ██  ██  ██      ║
+║   ███████ ██   ██ ██   ████      ██   ██ ██   ████       ║
+║                                                          ║
+║   ██████  ██   ██ ██      ███████ ███████ ██ ██████    ║
+║   ██   ██ ██   ██ ██      ██      ██      ██ ██   ██   ║
+║   ██████  ███████ ██      █████   ███████ ██ ██████    ║
+║   ██      ██   ██ ██      ██           ██ ██ ██          ║
+║   ██      ██   ██ ███████ ███████ ███████ ██ ██          ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+</pre>
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<!-- Dynamic Typing -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+the+future+with+code+%F0%9F%9A%80;Full-Stack+%7C+AI%2FML+%7C+MLOps+%7C+Cybersecurity;Turning+coffee+into+deployed+applications+%E2%98%95)](https://git.io/typing-svg)
 
-- 🎓 **Integrated MCA Final Year Student** at **Saintgits College of Engineering**, **Kerala**, **India**
+<!-- Profile Views Counter with custom styling -->
+<img src="https://komarev.com/ghpvc/?username=SanjayPhilip&label=Profile+Views&color=a855f7&style=for-the-badge" alt="Profile Views" />
 
-- 🌐 Passionate about **Web Development** — building full-stack applications that solve real problems
+</div>
 
-- 🤖 Diving deep into **AI | Machine Learning | Deep Learning** — from model building to deployment
+---
 
-- 🔐 Keen interest in **Cybersecurity** — actively exploring ethical hacking and secure system design
-
-- 🚀 Love bridging **AI** with real-world applications to create intelligent, impactful solutions
-
-- 🌱 Currently leveling up in **MLOps**, **model deployment**, and **full-stack development**
-
-<br>
-
-[![GitHub followers](https://img.shields.io/github/followers/SanjayPhilip?label=Follow&style=social)](https://github.com/SanjayPhilip)
-<br clear="both" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-## 💻 Tech Stack
+<!-- About Me Section with a different layout -->
+<div align="center">
+  <h2>🧬 <i>The Developer Behind The Code</i> 🧬</h2>
+</div>
 
 <table>
-  <tr>
-    <td><b>🗣️ Languages</b></td>
-    <td>
-      <br>
-      <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-      &nbsp;&nbsp;
-      <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-      &nbsp;&nbsp;
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-      &nbsp;&nbsp;
-      <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-      &nbsp;&nbsp;
-      <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td><b>🎨 Frontend</b></td>
-    <td>
-      <br>
-      <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
-      &nbsp;&nbsp;
-      <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
-      &nbsp;&nbsp;
-      <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-      &nbsp;&nbsp;
-      <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/></a>
-      &nbsp;&nbsp;
-      <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td><b>⚙️ Backend</b></td>
-    <td>
-      <br>
-      <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
-      &nbsp;&nbsp;
-      <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
-      &nbsp;&nbsp;
-      <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-      &nbsp;&nbsp;
-      <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td><b>🗄️ Database</b></td>
-    <td>
-      <br>
-      <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
-      &nbsp;&nbsp;
-      <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
-      &nbsp;&nbsp;
-      <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td><b>🤖 AI / ML</b></td>
-    <td>
-      <br>
-      <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/></a>
-      &nbsp;&nbsp;
-      <a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40"/></a>
-      &nbsp;&nbsp;
-      <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-      &nbsp;&nbsp;
-      <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-      &nbsp;&nbsp;
-      <a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/></a>
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td><b>🔐 Security & Tools</b></td>
-    <td>
-      <br>
-      <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-      &nbsp;&nbsp;
-      <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-      &nbsp;&nbsp;
-      <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-      &nbsp;&nbsp;
-      <a href="https://www.npmjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/></a>
-      <br><br>
-    </td>
-  </tr>
+<tr>
+<td width="60%">
+
+```python
+class SanjayPhilip:
+    def __init__(self):
+        self.role = "Full-Stack Developer & ML Engineer"
+        self.location = "Kottayam, Kerala 🇮🇳"
+        self.education = "Integrated MCA (Final Year) | CGPA: 8.69"
+        self.college = "Saintgits College of Engineering (KTU)"
+        self.currently = "Leveling up in MLOps & Model Deployment"
+        self.motto = "Build → Break → Learn → Repeat"
+
+    def get_interests(self):
+        return [
+            "🌐 Web Development - Full-stack apps that solve real problems",
+            "🤖 AI/ML - From model building to production deployment",
+            "🔐 Cybersecurity - Ethical hacking & secure system design",
+            "☁️ MLOps - Bridging AI research with real-world applications"
+        ]
+
+    def get_currently_learning(self):
+        return ["Docker & Kubernetes", "CI/CD Pipelines", "Cloud Architecture"]
+```
+
+</td>
+<td width="40%" align="center">
+
+<!-- Custom animated GIF or image -->
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Coding Animation" />
+
+<br><br>
+
+<!-- Quick Stats Badge -->
+<a href="https://github.com/SanjayPhilip">
+  <img src="https://img.shields.io/badge/-Full--Stack%20Dev-A855F7?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+<br>
+<a href="https://github.com/SanjayPhilip">
+  <img src="https://img.shields.io/badge/-AI%2FML%20Engineer-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</a>
+<br>
+<a href="https://github.com/SanjayPhilip">
+  <img src="https://img.shields.io/badge/-MLOps%20Learner-4ECDC4?style=for-the-badge&logo=docker&logoColor=white" />
+</a>
+
+</td>
+</tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+---
 
-## 🚧 Projects
+<!-- Tech Stack with a unique visual approach -->
+<div align="center">
+  <h2>🛠️ <i>My Digital Arsenal</i> 🛠️</h2>
+  <p><i>Tools I wield to turn ideas into reality</i></p>
+</div>
 
-<ul>
-<li>
+<!-- Tech Stack as a creative grid with emojis -->
+<div align="center">
 
-### **[E Blood Connect 🩸](https://github.com/SanjayPhilip/Blood-Bank-Management-System)**
-A full-featured blood donation management system that connects donors with recipients. Supports blood requests, donations, admin dashboards, blood inventory management, and automatic blood-type compatibility checking.
+### 🗣️ Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+### 🤖 AI / ML
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
+</p>
+
+### 🔐 DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+<!-- Projects Section with a unique card-like layout -->
+<div align="center">
+  <h2>🚀 <i>Projects That Define Me</i> 🚀</h2>
+  <p><i>From idea to deployment — here's what I've built</i></p>
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Smart Attendance System
+[![Smart Attendance](https://img.shields.io/badge/🔗_View_Repo-0B0D0E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjayPhilip/smart-attendance-system)
+
+> **Facial recognition meets cloud deployment**
+
+A full-stack attendance management system with AI-powered facial recognition, real-time analytics dashboards, and seamless cloud deployment.
+
+**Highlights:**
+- 🎯 Face recognition-based attendance marking
+- 📊 Analytics dashboard with attendance insights
+- ☁️ Deployed on Vercel & Railway
+- 🔒 Role-based access control
+
+`React` `Flask` `OpenCV` `SQLAlchemy` `Vercel` `Railway`
+
+</td>
+<td width="50%">
+
+### 🔄 MLOps Pipeline
+[![MLOps Pipeline](https://img.shields.io/badge/🔗_View_Repo-0B0D0E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjayPhilip)
+
+> **End-to-end ML lifecycle automation**
+
+Train, track, containerize, and deploy ML models with automated CI/CD. Because models deserve production-grade treatment too.
+
+**Highlights:**
+- 🏗️ Automated training & experiment tracking
+- 🐳 Docker containerization for consistency
+- 🚀 CI/CD with GitHub Actions → Render
+- 📡 FastAPI REST API for model serving
+
+`Python` `FastAPI` `Docker` `GitHub Actions` `Render`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎬 AI Video Subtitle Generator
+[![Subtitle Generator](https://img.shields.io/badge/🔗_View_Repo-0B0D0E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjayPhilip)
+
+> **Breaking language barriers with AI**
+
+AI-powered video subtitle generation with a stunning glassmorphism UI. Auto-transcribes video/audio to synchronized subtitles using OpenAI Whisper.
+
+**Highlights:**
+- 🎙️ OpenAI Whisper for accurate transcription
+- ✨ Glassmorphism UI design
+- 📥 SRT/VTT subtitle export
+- 🌐 Browser-based processing
+
+`TypeScript` `React` `OpenAI Whisper` `Node.js`
+
+</td>
+<td width="50%">
+
+### 🎵 SoundMind
+[![SoundMind](https://img.shields.io/badge/🔗_View_Repo-0B0D0E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjayPhilip/SoundMind)
+
+> **AI that understands your music taste**
+
+An intelligent music discovery platform that learns your preferences and surfaces tracks you'll actually love.
+
+**Highlights:**
+- 🤖 ML recommendation engine
+- 🎧 User preference profiling
+- 🌐 Flask REST API backend
+- 📱 Responsive music player UI
+
+`Python` `Flask` `AI/ML` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ✅ Task Manager
+[![Task Manager](https://img.shields.io/badge/🔗_View_Repo-0B0D0E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjayPhilip/task-manager)
+
+> **Productivity, reimagined**
+
+A full-stack task management app with drag-and-drop Kanban boards, priority tagging, and deadline tracking.
+
+**Highlights:**
+- 🎯 Drag-and-drop Kanban interface
+- 🏷️ Priority & deadline management
+- 📱 Mobile-first responsive design
+- 🔗 REST API backend integration
+
+`React` `Node.js` `MongoDB` `CSS3`
+
+</td>
+<td width="50%">
+
+### 🩸 E Blood Connect
+[![E Blood Connect](https://img.shields.io/badge/🔗_View_Repo-0B0D0E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjayPhilip/Blood-Bank-Management-System)
+
+> **Saving lives, one connection at a time**
+
+A full-featured blood donation management system connecting donors with recipients in real-time.
+
+**Highlights:**
+- 🔍 Blood-type compatibility checking
+- 📋 Admin dashboard with inventory tracking
+- 🔔 Real-time blood request notifications
+- 🔐 Role-based authentication
 
 `PHP` `MySQL` `HTML5` `CSS3` `JavaScript`
 
-</li>
-<li>
+</td>
+</tr>
+</table>
 
-### **[SoundMind 🎵](https://github.com/SanjayPhilip/SoundMind)**
-An AI-powered music discovery platform that recommends and surfaces music tailored to user preferences using intelligent algorithms.
+---
 
-`Python` `AI/ML` `Flask`
+<!-- GitHub Stats with a unique layout -->
+<div align="center">
+  <h2>📊 <i>GitHub Analytics</i> 📊</h2>
+</div>
 
-</li>
-<li>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=SanjayPhilip&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayPhilip&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 
-### **[Task Manager ✅](https://github.com/SanjayPhilip/task-manager)**
-A full-stack task management application for creating, organizing, and tracking tasks with a clean and responsive interface.
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayPhilip&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
+</div>
 
-`React` `Node.js` `MongoDB`
+---
 
-</li>
-<li>
+<!-- What Makes Me Different Section -->
+<div align="center">
+  <h2>💡 <i>What Makes Me Different</i> 💡</h2>
+</div>
 
-### **[Python Automation Toolkit 🤖](https://github.com/SanjayPhilip/python-automation-toolkit)**
-A collection of Python scripts and utilities to automate repetitive workflows and everyday tasks.
+<table>
+<tr>
+<td width="33%" align="center">
 
-`Python` `Automation` `Scripting`
+### 🔄 Full-Stack to ML
+I don't just build UIs or train models — I bridge both worlds. From React frontend to Docker deployment, I own the entire pipeline.
 
-</li>
-<li>
-  
-### **[Smart Attendance System 🚀](https://github.com/SanjayPhilip/smart-attendance-system)**
+</td>
+<td width="33%" align="center">
 
-A full-stack attendance management system featuring facial recognition-based attendance marking, analytics dashboards, student management, and cloud deployment.
+### 📈 Impact-Driven
+Every project has a purpose. 90%+ detection accuracy, 30% faster query resolution, 40% less manual work — I measure success in real numbers.
 
-`React` `Flask` `Computer Vision` `OpenCV` `SQLAlchemy` `Vercel` `Railway`
+</td>
+<td width="33%" align="center">
 
+### 🚀 Always Deploying
+I don't let projects die in localhost. Vercel, Railway, Render — if it can be deployed, it will be deployed.
 
+</td>
+</tr>
+</table>
 
-</li>
-</ul>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<!-- Connect Section -->
+<div align="center">
+  <h2>🤝 <i>Let's Build Something Amazing</i> 🤝</h2>
+  <p><i>Open to collaborations, internships, and full-time opportunities</i></p>
 
-## 📊 GitHub Stats
+  <br>
 
-![](https://streak-stats.demolab.com/?user=SanjayPhilip&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayPhilip&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <a href="https://github.com/SanjayPhilip">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/sanjay-philip-3a2531255">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:sanjayphilip832@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+  <br><br>
 
-## 🌐 Socials
+  <!-- Footer Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.&author=Cory%20House" alt="Quote" />
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SanjayPhilip)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-philip-3a2531255)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjayphilip832@gmail.com)
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=footer" />
+</div>
