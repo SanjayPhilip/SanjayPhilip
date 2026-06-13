@@ -1,23 +1,9 @@
 <div align="center">
 
-<!-- Animated ASCII Name Banner -->
-<pre style="font-family: 'Courier New', monospace; font-size: 12px; line-height: 1.2;">
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   ███████   █████   ███    ██      ██   ██ ██ ██    ██ ███████ ██    ║
-║   ██       ██   ██  ████   ██      ██   ██ ██ ██    ██ ██      ██    ║
-║   ███████  ███████  ██ ██  ██      ███████ ██ ██    ██ █████   ██    ║
-║        ██  ██   ██  ██  ██ ██           ██ ██  ██  ██  ██           ║
-║   ███████  ██   ██  ██   ████      ██   ██ ██   ████   ███████ ██    ║
-║                                                                      ║
-║   ██████   ██   ██ ██      ███████ ███████ ██ ██████  ██ ██ ██    ║
-║   ██   ██  ██   ██ ██      ██      ██      ██ ██   ██ ██ ██ ██    ║
-║   ██████   ███████ ██      █████   ███████ ██ ██████  ██ ██ ██    ║
-║   ██       ██   ██ ██      ██           ██ ██ ██      ██ ██ ██    ║
-║   ██       ██   ██ ███████ ███████ ███████ ██ ██       ███  ███    ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-</pre>
+<!-- Name Header -->
+<h1>
+  <img src="https://img.shields.io/badge/-Sanjay%20Philip-A855F7?style=for-the-badge&logoColor=white&labelColor=A855F7" alt="Sanjay Philip" />
+</h1>
 
 <!-- Dynamic Typing -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+the+future+with+code+%F0%9F%9A%80;Full-Stack+%7C+AI%2FML+%7C+MLOps+%7C+Cybersecurity;Turning+coffee+into+deployed+applications+%E2%98%95)](https://git.io/typing-svg)
