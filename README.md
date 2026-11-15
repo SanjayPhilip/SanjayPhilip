@@ -413,7 +413,7 @@ Collection of Python scripts and OOP utilities to automate repetitive workflows,
 `Python` `Automation` `OOP` `Scripting`
 
 </td>
-
+</tr>
 <tr>
 <td width="50%">
 
