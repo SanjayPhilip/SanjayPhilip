@@ -413,6 +413,65 @@ Collection of Python scripts and OOP utilities to automate repetitive workflows,
 `Python` `Automation` `OOP` `Scripting`
 
 </td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧠 Synapse
+[![Repo](https://img.shields.io/badge/🔗_View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=F97316)](https://github.com/SanjayPhilip/Synapse)
+
+> **Reciprocal matching for better opportunities**
+
+AI-powered hiring platform matching candidates and roles through skills, experience, and fit signals.
+
+**Highlights:**
+- 🔄 Reciprocal candidate ↔ employer matching
+- 🧠 AI-assisted skill and role analysis
+- 📊 Match insights for faster decisions
+- 🎯 Built around meaningful fit, not keyword noise
+
+`Python` `AI/ML` `Matching Engine` `Web App`
+
+</td>
+<td width="50%">
+
+### 🏋️ LiftLog
+[![Repo](https://img.shields.io/badge/🔗_View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=FB923C)](https://github.com/SanjayPhilip/LiftLog)
+[![Live](https://img.shields.io/badge/🔗_Open_Live-1a0a00?style=for-the-badge&logo=vercel&logoColor=F97316)](https://liftlog-gym-tracker-theta.vercel.app)
+
+> **Every rep counts**
+
+Mobile-friendly workout tracker for five-day training splits, strength progression, and body recomposition goals.
+
+**Highlights:**
+- 🏋️ Session, set, rep, and weight logging
+- 📈 Strength progression tracking
+- 📱 Installable progressive web app
+- 🔐 Supabase-backed personal data
+
+`JavaScript` `Supabase` `PWA` `Fitness Tracking`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📋 Clipflow
+[![Repo](https://img.shields.io/badge/🔗_View_Repo-1a0a00?style=for-the-badge&logo=github&logoColor=FBBF24)](https://github.com/SanjayPhilip/clipflow)
+
+> **A smarter system-tray clipboard**
+
+Early-stage clipboard manager for capturing, organizing, and reusing copied content from the desktop.
+
+**Highlights:**
+- 📋 System-tray clipboard history
+- 🗃️ SQLite-backed local storage
+- 🐍 Lightweight Python desktop utility
+- 🔮 AI tools planned for future releases
+
+`Python` `PyQt6` `SQLite` `Desktop Utility`
+
+</td>
 <td width="50%"></td>
 </tr>
 </table>
