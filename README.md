@@ -413,8 +413,6 @@ Collection of Python scripts and OOP utilities to automate repetitive workflows,
 `Python` `Automation` `OOP` `Scripting`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🧠 Synapse
@@ -433,6 +431,8 @@ AI-powered hiring platform matching candidates and roles through skills, experie
 `Python` `AI/ML` `Matching Engine` `Web App`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🏋️ LiftLog
@@ -452,8 +452,6 @@ Mobile-friendly workout tracker for five-day training splits, strength progressi
 `JavaScript` `Supabase` `PWA` `Fitness Tracking`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 📋 Clipflow
@@ -472,7 +470,6 @@ Early-stage clipboard manager for capturing, organizing, and reusing copied cont
 `Python` `PyQt6` `SQLite` `Desktop Utility`
 
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 
